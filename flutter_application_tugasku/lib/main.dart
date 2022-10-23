@@ -22,7 +22,7 @@ class BebasApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Aplikasi Jomblo"),
+          title: Text("Aplikasi Material dan Cuportino"),
           backgroundColor: Colors.red[900],
           centerTitle: true,
         ),
